@@ -1,0 +1,35 @@
+{
+  "project": {
+    "name": "Your Product Name",
+    "type": "saas | landing | dashboard | ai-tool | ecommerce",
+    "platform": "web | mobile | responsive"
+  },
+  "input": {
+    "type": "url | code | image | text",
+    "value": "",
+    "files": []
+  },
+  "users": {
+    "target_audience": "e.g. designers, developers, enterprise users",
+    "user_goals": [
+      "Complete primary task",
+      "Understand product quickly"
+    ],
+    "pain_points": []
+  },
+  "scope": {
+    "screens": [],
+    "flows": [
+      "onboarding",
+      "core action",
+      "checkout"
+    ]
+  },
+  "constraints": {
+    "tech_stack": "React | Next.js | Vue | etc",
+    "performance_requirements": "high | medium | low",
+    "accessibility_level": "WCAG AA | AAA",
+    "design_system": true
+  },
+  "audit_mode": "quick | standard | deep"
+}

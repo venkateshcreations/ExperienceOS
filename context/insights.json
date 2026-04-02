@@ -1,0 +1,56 @@
+{
+  "ux_issues": [
+    {
+      "id": "UX-001",
+      "screen": "Dashboard",
+      "issue": "Primary CTA is not clear",
+      "severity": "critical",
+      "layer": "clarity"
+    }
+  ],
+  "emotional_issues": [
+    {
+      "id": "EMO-001",
+      "screen": "Signup",
+      "emotion": "confusion",
+      "trigger": "Too many fields",
+      "impact": "user hesitation"
+    }
+  ],
+  "ai_opportunities": [
+    {
+      "id": "AI-001",
+      "feature": "Auto form fill",
+      "impact": "high",
+      "description": "Reduce manual input"
+    }
+  ],
+  "performance_issues": [
+    {
+      "id": "PERF-001",
+      "issue": "Slow initial load",
+      "impact": "high"
+    }
+  ],
+  "accessibility_issues": [
+    {
+      "id": "A11Y-001",
+      "issue": "Missing button labels",
+      "severity": "critical"
+    }
+  ],
+  "conversion_issues": [
+    {
+      "id": "CONV-001",
+      "issue": "Weak CTA",
+      "impact": "drop-off"
+    }
+  ],
+  "design_system_issues": [
+    {
+      "id": "DS-001",
+      "issue": "Inconsistent spacing",
+      "impact": "visual inconsistency"
+    }
+  ]
+}

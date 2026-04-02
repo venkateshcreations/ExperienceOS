@@ -1,0 +1,11 @@
+{
+  "mode": "deep",
+  "agents_enabled": [
+    "ux-audit",
+    "emotional-ux",
+    "ai-ux",
+    "conversion"
+  ],
+  "output_format": "detailed",
+  "frontend_framework": "nextjs"
+}

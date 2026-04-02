@@ -1,0 +1,16 @@
+{
+  "pipeline": [
+    "context-analyzer",
+    "ux-audit",
+    "emotional-ux",
+    "ai-ux",
+    "performance",
+    "accessibility",
+    "conversion",
+    "design-system",
+    "scoring",
+    "strategy",
+    "redesign",
+    "frontend"
+  ]
+}

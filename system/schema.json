@@ -1,0 +1,8 @@
+{
+  "ux_issue": {
+    "id": "string",
+    "screen": "string",
+    "severity": "critical | major | minor",
+    "description": "string"
+  }
+}

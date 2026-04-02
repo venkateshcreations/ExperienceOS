@@ -1,0 +1,8 @@
+{
+  "current_step": "ux-audit",
+  "completed_agents": [
+    "context-analyzer",
+    "ux-audit"
+  ],
+  "next_agent": "emotional-ux"
+}
