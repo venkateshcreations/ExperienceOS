@@ -1,0 +1,3 @@
+# This file ensures the outputs directory is tracked by Git
+# The outputs directory is essential for the ExperienceOS framework
+# Generated reports and frontend code will be stored here
